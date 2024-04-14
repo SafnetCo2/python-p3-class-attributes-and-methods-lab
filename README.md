@@ -14,8 +14,6 @@ The `Song` class is a fundamental component for managing song data in applicatio
 - Maintain lists of unique genres and artists.
 - Track the count of songs for each genre and artist.
 
-# Usage
-# Creating a Song
 # Creating song instances
 song1 = Song("Thriller", "Michael Jackson", "Pop")
 song2 = Song("Single Ladies", "Beyoncé", "R&B")
