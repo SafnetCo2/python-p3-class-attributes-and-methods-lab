@@ -1,4 +1,4 @@
-# Song Class
+## Song Class
 
 The Song class represents individual songs and provides methods to manage information about them, such as the song name, artist, and genre. It also includes functionality to keep track of the total number of songs created, unique genres, and unique artists.
 
@@ -37,5 +37,5 @@ Email: josephine.nzioka1@student.moringaschool
 ## License
 This project is licensed under the [MIT License] https://opensource.org/licenses/MIT- see the LICENSE file for details.
 
-# Acknowledgments
+## Acknowledgments
 Special thanks to Technical Mentor Ian of Moringa School for inspiring me to learn python programming skills.
