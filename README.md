@@ -28,20 +28,16 @@ print(song2.name, song2.artist, song2.genre)
 print("Total songs created:", Song.count)
 print("Unique genres:", Song.genres)
 print("Unique artists:", Song.artists)
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 Comments, feedback, and suggestions for improvement are welcome! Feel free to open an issue or submit a pull request.
 
 ## Support
-If you encounter any issues or have questions about the Class Song code , please open an issue in the repository or contact the author via email:
-
+If you encounter any issues or have questions about the Song class code, please open an issue in the repository or contact the author via 
 Email: josephine.nzioka1@student.moringaschool
 
-### License
+## License
 This project is licensed under the [MIT License] https://opensource.org/licenses/MIT- see the LICENSE file for details.
 
-### Acknowledgments
-Special thanks to Technical Mentor Ian of Moringa School for inspiring me learn python programming skills.
-
+## Acknowledgments
+Special thanks to Technical Mentor Ian of Moringa School for inspiring me to learn python programming skills.
